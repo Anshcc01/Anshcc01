@@ -1,8 +1,15 @@
-[![MasterHead](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)](https://anshcc01.io)
 <h1 align="center">Hi 👋, I'm ANSH JAISWAL</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.esds.co.in/blog/wp-content/uploads/2019/05/desk.gif">
+<h3 align="center">A Passionate FULL STACK Developer</h3>
+
+<p align="center">
+  <a href="https://anshcc01.io">
+    <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="MasterHead" width="400">
+  </a>
+</p>
+
+<img align="right" alt="Coding" width="300" src="https://www.esds.co.in/blog/wp-content/uploads/2019/05/desk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshcc01&label=Profile%20views&color=0e75b6&style=flat" alt="anshcc01" /> </p>
+
 
 - 🔭 I’m currently working on **Internet of Things**
 
