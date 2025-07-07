@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **web dev , Android , python**
 
-- 📫 How to reach me **techfuture576@gmail.com**
+- 📫 How to reach me **anshjais90@gmail.com**
 
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug.**
 
